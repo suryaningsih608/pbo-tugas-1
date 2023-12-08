@@ -1,35 +1,5 @@
 
 # TUGAS 1 PBO
-
-
-#### Nama
-```bash
- Suryaningsih
-```
-
-#### NPM
-
-```bash
-  G1F022049
-```
-
-#### Dosen Pengampu
-
-```bash
-  Arie Vatresia, S.T., M.Kom
-```
-
-#### Mata Kuliah
-
-```bash
-  Pemograman Berorientasi Objek
-```
-#### Asisten Dosen
-
-```bash
-  Randi Julian Saputra
-```
-
 ## Soal
 
 1. Buatlah perulangan hingga 100 menggunakan Python dengan output sebagai berikut:
